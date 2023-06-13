@@ -10,7 +10,7 @@ LA CANCHA
 
 El área de juego es una cancha plana, con 18 metros de largo y 9 metros de ancho, dividida por una red de forma vertical, con un ancho de 1 metro y un largo de 9 metros, colocada sobre la línea central que divide al terreno de juego en dos partes iguales. En las canchas que se encuentren en el interior de recintos deportivos la superficie de juego debe ser de color uniforme, claro y brillante, y en competiciones internacionales los colores de las líneas, la cancha y la zona libre tienen que ser diferentes.
 
-Los círculos rojos establecen las 6 posiciones en las que se desplazan los jugadores, y la flecha gris, simboliza el sentido de la rotación. Como se puede evidenciar, están en pleno juego y se permite el movimiento de ellos a lo largo de la cancha. Los jugadores que se encuentran frente a la red son los que realizan los bloqueos, y pueden "armar" para que un jugador de posición 1, 2 o 3 genere un remate.
+Los círculos rojos establecen las 6 posiciones en las que se desplazan los jugadores, y la flecha gris, simboliza el sentido de la rotación. Como se puede evidenciar, están en pleno juego y se permite el movimiento de ellos a lo largo de la cancha. Los jugadores que se encuentran frente a la red son los que realizan los bloqueos, y pueden "armar" para que un jugador de posición 1, 2 o 3 genere un remate, por otro lado, los jugadores de la zona trasera sólo pueden pasar el balón por encima de la red si saltan desde detrás de la línea de ataque, también conocida como línea de tres metros, que separa la parte delantera y trasera de la pista
 
 EL SAQUE
 
@@ -23,10 +23,12 @@ Saque por arriba: Es un saque a nivel profesional, la pelota se eleva por sobre 
 LOS GOLPES
 Golpe "dedos": Las manos se colocan paralelas, generando un triángulo con los dedos indices y pulgares, y la pelota es recibida con las yemas de los dedos, generando flexión de brazos para agregar fuerza al golpe.
 Golpe "antebrazo": Brazos estirados hacia el frente uniendo las manos. La flexión de las piernas entrega la fuerza para generar el golpe.
-Golpe "bloqueo": Intercepción de un golpe contrincante, se genera con un salto, ubicando las manos estiradas verticalmente sobre la cabeza.
+Golpe "bloqueo": Intercepción de un golpe contrincante, se genera con un salto, ubicando las manos estiradas verticalmente sobre la cabeza. Es el momento en que los jugadores tratan de detener el remate contrario. 
 Golpe "remate": Último golpe, incluye fuerza y es rápido, se utiliza en dirección al suelo, con fuerza para impedir su respuesta.
 
 EL BALÓN
+Diámetro: 21 cm
+Peso: 260-280 gramos 
 
 PAÍSES AMERICANOS DESTACADOS
 
