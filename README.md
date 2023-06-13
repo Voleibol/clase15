@@ -14,11 +14,11 @@ Los círculos rojos establecen las 6 posiciones en las que se desplazan los juga
 
 EL SAQUE
 
-Ambos se realizan desde cualquier posición al final de la cancha, por detrás de la línea de fondo
+El saque es el golpe que da inicio a la jugada. El jugador ubicado en la posición 1 debe golpear la pelota con la mano sobre la red, para que caiga dentro de las líneas de la cancha en el terreno oponente. Los jugadores pueden realizar la jugada por sobre o por debajo de la altura de los hombros, ambos se realizan desde cualquier posición al final de la cancha, por detrás de la línea de fondo
 
 Saque por debajo: Es un saque utilizado a nivel principiante, donde la pelota se golpea con la mano dominante, colocando el pie contrario un paso por delante. El golpe se puede realizar con la palma o puño.
 
-Saque por arriba: Es un saque a nivel profesional, la pelota se eleva por sobre la cabeza, se realiza un salto y se golpea en el punto más alto con la palma abierta.
+Saque por arriba: Es un saque a nivel profesional, la pelota se eleva por sobre la cabeza, con la palma abierta. Popularmente se puede realizar un salto y se golpea en el aire, en el punto más alto alcanzado. 
 
 LOS GOLPES
 Golpe "dedos": Las manos se colocan paralelas, generando un triángulo con los dedos indices y pulgares, y la pelota es recibida con las yemas de los dedos, generando flexión de brazos para agregar fuerza al golpe.
