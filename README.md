@@ -31,5 +31,5 @@ Diámetro: 21 cm
 Peso: 260-280 gramos 
 
 PAÍSES AMERICANOS DESTACADOS
-
+En el caso de los Juegos Panamericanos, el vóleibol fue incluido en la edición de Ciudad de México 1955 donde ingresó con ambas ramas al programa. El líder panamericano en el vóleibol es Cuba, país que cuenta con 13 medallas de oro
 Los tres medalleros históricos están actualizados hasta Lima 2019, año donde Argentina gana la medalla de oro, estableciendose como el 4to mejor país del mundo, y el podio continúan obteniendo Brasil, Cuba y Estados Unidos, gracias a la cantidad de medallas acumuladas a la fecha
